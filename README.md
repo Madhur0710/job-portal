@@ -4,17 +4,17 @@ A modern job portal web application built with React.js, Clerk for authenticatio
 
 **Features-**
 
-User Authentication: Sign up, login, and secure access to the portal via Clerk.
+**User Authentication**: Sign up, login, and secure access to the portal via Clerk.
 
-Job Listings: Browse available job postings, with detailed job descriptions.
+**Job Listings**: Browse available job postings, with detailed job descriptions.
 
-Post a Job: Recruiters can post job opportunities for candidates to view.
+**Post a Job**: Recruiters can post job opportunities for candidates to view.
 
-Job Search: Search for jobs by keywords, location, or category.
+**Job Search**: Search for jobs by keywords, location, or category.
 
-User Profiles: Recruiters and candidates can create and manage their profiles.
+**User Profiles**: Recruiters and candidates can create and manage their profiles.
 
-Responsive UI: A sleek and modern design powered by Shadcn UI for a seamless user experience across devices.
+**Responsive UI**: A sleek and modern design powered by Shadcn UI for a seamless user experience across devices.
 
-Vercel Deployment - https://hiredd.vercel.app/
+**Vercel Deployment** - https://hiredd.vercel.app/
 

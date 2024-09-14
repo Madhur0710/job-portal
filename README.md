@@ -16,3 +16,5 @@ User Profiles: Recruiters and candidates can create and manage their profiles.
 
 Responsive UI: A sleek and modern design powered by Shadcn UI for a seamless user experience across devices.
 
+Vercel Deployment - https://hiredd.vercel.app/
+
